@@ -1,0 +1,11 @@
+client_id,age,genre,ville,produit_achete,montant_achat,date_achat,segment_client
+C001,35,M,Paris,Laptop,1200,2024-01-15,High-Value
+C002,28,F,Lyon,Smartphone,800,2024-01-16,Mid-Value
+C003,42,M,Marseille,Tablette,500,2024-01-17,Low-Value
+C004,31,F,Bordeaux,Accessoires,150,2024-01-18,Mid-Value
+C005,45,M,Lille,Laptop,1500,2024-01-19,High-Value
+C006,26,F,Toulouse,Smartphone,900,2024-01-20,Mid-Value
+C007,39,M,Nantes,Tablette,450,2024-01-21,Low-Value
+C008,33,F,Strasbourg,Accessoires,200,2024-01-22,Mid-Value
+C009,48,M,Montpellier,Laptop,1300,2024-01-23,High-Value
+C010,29,F,Nice,Smartphone,850,2024-01-24,Mid-Value 
